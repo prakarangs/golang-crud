@@ -9,3 +9,6 @@
 4. Create local http server with Gin then run it with `go run main.go`
 5. Create stucts of model
 6. Create interfaces for CRUD for in repository
+
+
+Excercise from: https://www.youtube.com/watch?v=cLEXgca3FM8&ab_channel=lemoncode21
